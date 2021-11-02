@@ -5,3 +5,4 @@
 
 ## Resources
 - ### [🌎 Website]()
+- ### [💬 Discussions (place for reporting bugs, requesting new features, and asking questions about Shartware.)]()
