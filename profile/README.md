@@ -5,4 +5,3 @@
 
 ## Resources
 - ### [🌎 Website]()
-- ### [💬 Discord Server]()
