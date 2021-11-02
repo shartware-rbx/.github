@@ -4,5 +4,5 @@
 </p>
 
 ## Resources
-- ### [🌎 Website]()
-- ### [💬 Discussions (place for reporting bugs, requesting new features, and asking questions about Shartware.)]()
+- ### [🌎 Website](https://shartware.gg)
+- ### [💬 Discussions (place for reporting bugs, requesting new features, and more!)](https://github.com/shartware-rbx/shartware/discussions)
