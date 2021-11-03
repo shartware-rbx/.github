@@ -5,4 +5,5 @@
 
 ## Resources
 - ### [🌎 Website](https://shartware.gg)
-- ### [💬 Discussions (place for reporting bugs, requesting new features, and more!)](https://github.com/shartware-rbx/shartware/discussions)
+- ### [💬 Discussions (place requesting new features, asking questions about Shartware, and more!)](https://github.com/shartware-rbx/shartware/discussions)
+- ### [🐞 Issues (place for reporting bugs)](https://github.com/shartware-rbx/shartware/issues)
